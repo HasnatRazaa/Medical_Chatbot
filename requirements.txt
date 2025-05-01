@@ -1,6 +1,8 @@
 streamlit
-huggingface_hub
-transformers
+huggingface_hub>=0.17.0
+httpx
+pillow
+pydantic
 torch
 pandas
 numpy
